@@ -5,6 +5,7 @@
 
 
 ## Cuando no estoy con mis estudios, disfruto de mis hobbies, que incluyen:
+
 🌸 Leer manga o novelas
 🌸 Jugar videojuegos
 🌸 Chatear con mis amigas
