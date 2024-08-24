@@ -9,7 +9,7 @@ Aunque estoy en las etapas iniciales de mi aprendizaje, me enfoco en adquirir la
 Lo que más me motiva es la resolución de problemas y el constante aprendizaje que implica este campo, lo cual encuentro muy estimulante.
 
 
-Cuando no estoy con mis estudios, disfruto de mis hobbies, que incluyen:
+### Cuando no estoy con mis estudios, disfruto de mis hobbies, que incluyen:
 
 🌸 Leer manga o novelas  
 🌸 Jugar videojuegos  
