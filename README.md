@@ -15,3 +15,9 @@ Lo que más me motiva es la resolución de problemas y el constante aprendizaje 
 🌸 Jugar videojuegos  
 🌸 Chatear con mis amigas  
 🌸 Salir a pasear  
+
+### Links a de páginas web favoritas 
+
+[Mi juego favorito](https://lifemakeover.archosaur.com/)
+[Youtube](https://www.youtube.com/)
+[Twitch](https://www.twitch.tv/)
