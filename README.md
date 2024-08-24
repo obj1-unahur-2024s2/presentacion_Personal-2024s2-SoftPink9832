@@ -18,9 +18,9 @@ Lo que más me motiva es la resolución de problemas y el constante aprendizaje 
 
 ### Links de mis páginas web favoritas 
 
-<a href="https://lifemakeover.archosaur.com/" style="color: pink;">Mi juego favorito</a>  
-<a href="https://www.youtube.com/" style="color: pink;">Youtube</a>  
-<a href="https://www.twitch.tv/" style="color: pink;">Twitch</a>
+[Mi juego favorito](https://lifemakeover.archosaur.com/)  
+[Youtube](https://www.youtube.com/)  
+[Twitch](https://www.twitch.tv/)  
  
 
 
