@@ -1,2 +1,2 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Logo UNAHUR](./assets/1711593.gif)
 
